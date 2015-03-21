@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello
 
 This is test3.txt in Master branch
+=======
+Test3..
+>>>>>>> origin/Test_Branch2
